@@ -23,4 +23,5 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - Lawnicons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
 
 ## Screenshots
-![](/gitimages/readmeimage.png)
+![](/gitimages/ss1.png)
+![](/gitimages/ss2.png)
