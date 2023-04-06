@@ -6,8 +6,8 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 > - I recommend disabling and enabling the thematic icons so that the module is well applied.
 
 ![License](https://img.shields.io/github/license/syoker/extra-themed-icons)
-![Release date](https://img.shields.io/github/release-date/syoker/extra-themed-icons)
-![Downloads](https://img.shields.io/github/downloads/syoker/extra-themed-icons/total)
+![Release date](https://img.shields.io/github/release-date/LoLToHell/extra-themed-icons-aosp)
+![Downloads](https://img.shields.io/github/downloads/LoLToHell/extra-themed-icons-aosp/total)
 
 ## Requirements
 - Magisk
