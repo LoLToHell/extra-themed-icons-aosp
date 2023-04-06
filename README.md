@@ -11,12 +11,15 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 
 ## Requirements
 - Magisk
+- For MIUI version, there should be support for dynamic icons from the system side, added in MIUI14!
 
 ## Compatibility
 - Android 12 on up
+- MIUI14 or 13 with Google Monet Support
 
 ## Tested
 - LineageOS 20 with Trebuchet Launcher
+- MIUI14, Android 13
 ## Credits
 - [Syoker](https://github.com/Syoker) (Creator)
 - TeamFiles Icons by [TeamFiles](https://github.com/TeamFiles "Team Files")
