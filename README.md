@@ -1,6 +1,6 @@
 # Extra Themed Icons
 
-This Magisk Module adds more icons either lines or filled (you can choose) than a normal Pixel Launcher.
+This Magisk Module adds more icons either lines or filled (you can choose) than a normal AOSP Launchers.
 > **NOTES:**
 > - These icons are not mine (the credits will be below, I only make the module).
 > - I recommend disabling and enabling the thematic icons so that the module is well applied.
@@ -16,11 +16,9 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - Android 12 on up
 
 ## Tested
-- [Fork of Pixel Experience 12.1 v412](https://t.me/MotoUpdatesbr/17) by [Moto Updates](https://t.me/MotoUpdatesbr) (GSI)
-- [Pixel Experience Plus 12.1 v413](https://github.com/ponces/treble_build_pe/releases/tag/v413-plus) by [Ponces](https://github.com/ponces) (GSI)
-- [Project Elixir 13 v3.5](https://projectelixiros.com/device/gsi) by Lynix & KrutosX (GSI)
-
+- LineageOS 20 with Trebuchet Launcher
 ## Credits
+- Syoker (Creator)
 - TeamFiles Icons by [TeamFiles](https://github.com/TeamFiles "Team Files")
 - Lawnicons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
 
