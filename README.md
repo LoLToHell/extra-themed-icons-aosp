@@ -1,4 +1,4 @@
-# Extra Themed Icons
+# Extra Themed Icons AOSP
 
 This Magisk Module adds more icons either lines or filled (you can choose) than a normal AOSP Launchers.
 > **NOTES:**
