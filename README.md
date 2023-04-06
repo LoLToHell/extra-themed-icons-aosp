@@ -18,7 +18,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 ## Tested
 - LineageOS 20 with Trebuchet Launcher
 ## Credits
-- Syoker (Creator)
+- [Syoker](https://github.com/Syoker) (Creator)
 - TeamFiles Icons by [TeamFiles](https://github.com/TeamFiles "Team Files")
 - Lawnicons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
 
