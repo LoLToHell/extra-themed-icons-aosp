@@ -19,6 +19,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 
 ## Tested
 - LineageOS 20 with Trebuchet Launcher
+- CrDroid 8, Android 12 with CrDroid Laucnher
 - MIUI14, Android 13
 ## Credits
 - [Syoker](https://github.com/Syoker) (Creator)
